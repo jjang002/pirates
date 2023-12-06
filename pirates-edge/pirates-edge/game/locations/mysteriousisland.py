@@ -1,5 +1,5 @@
 from game import location
-from game.config as config
+import game.config as config
 from game.display import announce
 import random
 
